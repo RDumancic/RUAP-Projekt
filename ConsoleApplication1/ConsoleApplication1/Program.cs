@@ -10,11 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("Pozdrav domovini od Dumančića, ne znam index");
-=======
             Console.WriteLine("Pozdrav domovini od Dumančića");
->>>>>>> 460d30a... prvi pokusaj
         }
     }
 }
