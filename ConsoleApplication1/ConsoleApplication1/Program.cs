@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav domovini od Dumančića");
+            Console.WriteLine("Pozdrav domovini od Dumančića, ne znam index");
         }
     }
 }
